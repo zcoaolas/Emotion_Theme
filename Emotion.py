@@ -12,7 +12,7 @@ requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
 
 
 _url = 'https://api.projectoxford.ai/emotion/v1.0/recognize'
-_key = '5d46bf2e939c466e9a32a0355a2da5ae'
+_key = ''
 _maxNumRetries = 10
 
 
